@@ -1,24 +1,24 @@
 # vue-cesium-scale
 
-## Project setup
+## 安装依赖
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+## 开发环境下预览
 ```
 npm run serve
 ```
 
-### Compiles and minifies for production
-```
-npm run build
-```
+## demo代码路径
+src/components/HelloWorld.vue
 
-### Lints and fixes files
-```
-npm run lint
-```
+## 核心方法
+cesiumScale()
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+## 核心属性
+distanceLabel,
+barWidth
+
+## 效果
+![avatar](demo.png)
