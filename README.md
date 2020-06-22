@@ -1,5 +1,8 @@
 # vue-cesium-scale
 
+## 在线预览
+https://taoqi0813.github.io/#/vue-cesium-scale
+
 ## 安装依赖
 ```
 npm install
